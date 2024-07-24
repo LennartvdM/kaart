@@ -4,6 +4,14 @@
 	 id="Layer_1" mapsvg:geoViewBox="-169.110266 83.600842 190.486279 -58.508473" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mapsvg="http://mapsvg.com" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1440 700"
 	 style="enable-background:new 0 0 1440 700;" xml:space="preserve">
+
+<defs>
+  <linearGradient id="verticalGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#4a4a4a;stop-opacity:1" />
+  </linearGradient>
+</defs>
+
 <style type="text/css">
 	.st0{fill:none;}
 </style>
